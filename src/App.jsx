@@ -87,7 +87,7 @@ function App() {
                 <div className='flex items-center gap-4 justify-between' key={todo.id}>
                 <li
                  
-                  className="flex items-center justify-between bg-gray-50 p-3 rounded-lg hover:bg-gray-100 transition hover:scale-[1.02] cursor-pointer select-none min-w-70 overflow-hidden"
+                  className="flex items-center justify-between bg-gray-50 p-3 mt-2 rounded-lg hover:bg-gray-100 transition hover:scale-[1.02] cursor-pointer select-none min-w-80 max-w-80 overflow-hidden"
                    onClick={() => toggleComplete(todo.id)}
 
                 >
