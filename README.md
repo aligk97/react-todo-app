@@ -5,6 +5,12 @@ localStorage desteği ve filtreleme özellikleri ile minimal bir proje.
 
 ---
 
+## Canlı Demo
+Projeyi canlı görmek için: [Tıkla!](https://react-todo-app-two-tau.vercel.app)
+
+## Önizleme
+![Proje Önizleme](./src/assets/todoapp-screenshot.jpg)
+
 ## Özellikler
 
 - Todo ekleme, silme ve tamamlandı olarak işaretleme ✅  
@@ -18,8 +24,8 @@ localStorage desteği ve filtreleme özellikleri ile minimal bir proje.
 ## Başlatma
 
 ```bash
-# bağımlılıkları yükle
+# install repositories
 npm install
 
-# projeyi başlat
+# start project
 npm run dev
