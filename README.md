@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Todo App 🎉
 
 React + Vite + Tailwind CSS ile yapılmıştır.  
